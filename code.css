@@ -1,0 +1,18 @@
+body {
+    width: 100%;
+    background-color: #ccc;
+}
+
+#image {
+    width: 120px;
+    height: 119PX;
+    MARGIN-LEFT: 100px;
+}
+
+input {
+    margin-left: 125px;
+}
+
+input:hover {
+    color: red;
+}
